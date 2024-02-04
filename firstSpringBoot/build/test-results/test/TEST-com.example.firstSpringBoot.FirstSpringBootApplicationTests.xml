@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.firstSpringBoot.FirstSpringBootApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-04T21:06:20" hostname="DESKTOP-L31337K" time="1.055">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.firstSpringBoot.FirstSpringBootApplicationTests" time="1.055"/>
+  <system-out><![CDATA[02:36:18.358 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.firstSpringBoot.FirstSpringBootApplicationTests]: FirstSpringBootApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+02:36:18.464 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.firstSpringBoot.FirstSpringBootApplication for test class com.example.firstSpringBoot.FirstSpringBootApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.2)
+
+2024-02-05T02:36:18.885+05:30  INFO 11816 --- [    Test worker] c.e.f.FirstSpringBootApplicationTests    : Starting FirstSpringBootApplicationTests using Java 17.0.4.1 with PID 11816 (started by shive in D:\firstSpringBoot)
+2024-02-05T02:36:18.887+05:30  INFO 11816 --- [    Test worker] c.e.f.FirstSpringBootApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-02-05T02:36:20.254+05:30  INFO 11816 --- [    Test worker] c.e.f.FirstSpringBootApplicationTests    : Started FirstSpringBootApplicationTests in 1.608 seconds (process running for 2.861)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
